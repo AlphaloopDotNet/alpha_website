@@ -7,11 +7,8 @@ import Footer from "../../components/Footer/footer";
 import DarkTheme from "../../layouts/Dark";
 import LightTheme from "../../layouts/Light";
 import Clients from "../../components/Clients/clients";
-import Blogs2 from "../../components/blogs/Blogs2/blogs2";
 import MinimalArea2 from "../../components/Minimal-Area2/minimal-area2";
-import FullTestimonials from "../../components/Full-testimonials/full-testimonials"
 import Numbers from "../../components/Numbers/numbers"
-import SkillsCircle from "../../components/Skills-circle/skills-circle";
 
 const Homepage2 = () => {
   const navbarRef = React.useRef(null);

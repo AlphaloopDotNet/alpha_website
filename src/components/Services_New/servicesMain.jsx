@@ -148,7 +148,7 @@ const ServicesAll = ({ serviceMB50 }) => {
         </div>
         <br />
 
-        <div className="row-lg servicee-container">
+         <div className="row-lg servicee-container">
           <div className="wow fadeInLeft">
             <div className="item-box s-box no-curve">
               <div className="service-c2 d-md-flex justify-content-center align-items-center">

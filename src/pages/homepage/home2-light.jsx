@@ -9,7 +9,6 @@ import LightTheme from "../../layouts/Light";
 import Portfolio from "../../components/Portfolio/portfolio";
 import FullTestimonials from "../../components/Full-testimonials/full-testimonials";
 import Team2 from "../../components/Team2/team2";
-import Blogs2 from "../../components/blogs/Blogs2/blogs2";
 import BlogGridDark from "../blog-grid/blog-grid-dark"
 
 const Homepage2 = () => {

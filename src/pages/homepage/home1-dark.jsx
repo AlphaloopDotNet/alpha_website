@@ -6,7 +6,6 @@ import Services from "../../components/Services/services";
 import Works from "../../components/Works/works";
 import Numbers from "../../components/Numbers/numbers";
 import FullTestimonials from "../../components/Full-testimonials/full-testimonials"
-import VideoWithTestimonials from "../../components/Video-with-testimonials/video-with-testimonials";
 import SkillsCircle from "../../components/Skills-circle/skills-circle";
 import Clients from "../../components/Clients/clients";
 import Blogs1 from "../../components/blogs/Blogs1/blogs1";
@@ -53,7 +52,6 @@ const Homepage1 = () => {
         <Services />
         <Works />
         <Numbers />
-        <MinimalArea2 />
         <FullTestimonials classText="pb-0" />
 
         <SkillsCircle theme="dark" />
