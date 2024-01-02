@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-science",
+        "title": "Artificial Intelligence",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Web & Mobile Development",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Digital Marketing",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Graphic Design",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    },
+    {
+        "id": 5,
+        "icon": "pe-7s-monitor",
+        "title": "Custom Software Development",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    },
+    {
+        "id": 6,
+        "icon": "pe-7s-study",
+        "title": "Training & Courses",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    }
+]
+
+

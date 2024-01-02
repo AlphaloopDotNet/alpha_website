@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "content": "Happy Clients.",
+    "value": "8"
+},
+{
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "content": "Project accomplished !",
+    "value": "8"
+},
+{
+    "id": 3,
+    "icon": "pe-7s-users",
+    "content": "Joint Ventures",
+    "value": "6"
+},
+{
+    "id": 4,
+    "icon": "pe-7s-coffee",
+    "content": "Cups of Coffee",
+    "value": "15"
+}
+]
+
+
