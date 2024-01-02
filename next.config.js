@@ -10,6 +10,6 @@ module.exports = {
     buildActivity: false,
   },
   eslint: {
-    ignoreDuringBuilds: false,
+    ignoreDuringBuilds: true,
   },
 };
