@@ -7,7 +7,6 @@ import { thumparallaxDown ,simpleParallax} from "../../common/thumparallax";
 const MinimalArea2 = () => {
   React.useEffect(() => {
     setTimeout(() => {
-      thumparallaxDown();
     }, 1000);
   }, []);
   return (
@@ -30,8 +29,7 @@ const MinimalArea2 = () => {
                 <p className="wow txt words chars splitting" data-splitting>
                 Our talented software development company is experienced in creating customized software solutions 
                 that align with your unique business demands.
-                 Whether you need a web operation, mobile app, or enterprise software,
-                  we've the chops and skills to deliver high-quality, scalable results that meet your aims.
+                 Whether you need a web operation, mobile app, or enterprise software, we've the chops and skills to deliver high-quality, scalable results that meet your aims.
                 </p>
               </Split>
               <ul>
